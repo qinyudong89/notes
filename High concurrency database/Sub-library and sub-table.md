@@ -45,5 +45,7 @@ https://static001.geekbang.org/resource/image/0f/9d/0faac5967ca1f9385d8f7eda8eed
 
 4.选择适合的分片算法。
 
+5.采用分库分表时，一定是所有选项最后一个被采用的
+
 
    
